@@ -1,0 +1,37 @@
+body {
+    font-size: 17px;
+    background-color:rgb(163, 180, 235) ;
+    text-align: justify;
+}
+h1 {
+    font-size: 3rem;
+    text-align: right;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+
+span {
+    color: rgb(172, 60, 60);
+    font-family: "Comic Sans", cursive;
+}
+
+span.tit {
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+
+span#tit {
+    background-color: white;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p {
+    line-height: 200%;
+    text-indent: 3em;
+}
